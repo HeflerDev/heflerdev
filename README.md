@@ -5,7 +5,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap" rel="stylesheet"> 
 <p align="center">
 
-  # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Hefler 👨‍💻
+  # <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px">Hi, I'm Hefler 👨‍💻
 
   I am a Full-Stack Web Developer, passionate about technologies, and in constant love with the world of coding.
 
