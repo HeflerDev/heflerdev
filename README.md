@@ -14,6 +14,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/heflerdev/)](https://www.linkedin.com/in/heflerdev/)
 [![Gmail Badge](https://img.shields.io/badge/-heflerdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:heflerdev@gmail.com)
 
-|[![Hefler Github Stats](https://github-readme-stats.vercel.app/api?username=heflerdev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heflerdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+|[![Hefler Github Stats](https://github-readme-stats.vercel.app/api?username=heflerdev&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heflerdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 |--|--|
 
