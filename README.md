@@ -4,8 +4,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap" rel="stylesheet"> 
 <p align="center">
-
-  # <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px"> Hi, I'm Axel 💻
+  Hi, I'm Axel 💻
 
  Full-Stack Web Developer that loves to feel challenged. I see the opportunity to create whole "worlds" through the mixture of technology, logic, and creativity.
 
