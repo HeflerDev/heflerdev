@@ -4,7 +4,7 @@
 
 <table>
   <tr style="display: flex;">
-    <td><<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heflerdev&show_icons=true&locale=en&layout=compact" alt="heflerdev" /></p></td>
+    <td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heflerdev&show_icons=true&locale=en&layout=compact" alt="heflerdev" /></p></td>
     <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heflerdev&" alt="heflerdev" /></p></td>
   </tr>
 </table>
