@@ -8,7 +8,7 @@
     <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heflerdev&" alt="heflerdev" /></p></td>
   </tr>
 </table>
-<div align="center">
+</div>
 
 - 🔭 I’m currently working on [Audience Lab (Private)](app.audiencelab.io)
 
