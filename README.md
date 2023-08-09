@@ -3,11 +3,12 @@
 
 
 <table>
-  <tr style="display: flex;">
+  <tr>
     <td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heflerdev&show_icons=true&locale=en&layout=compact" alt="heflerdev" /></p></td>
     <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heflerdev&" alt="heflerdev" /></p></td>
   </tr>
 </table>
+
 - 🔭 I’m currently working on [Audience Lab (Private)](app.audiencelab.io)
 
 - 🌱 I’m currently learning **AWS Lambda, Mongo**
