@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hefler</h1>
 <h3 align="center">Backend, DevOps and Database Management</h3>
 
-<div class="header">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heflerdev&show_icons=true&locale=en&layout=compact" alt="heflerdev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heflerdev&" alt="heflerdev" /></p>
+
+<div align="center">
+  <div style="display: flex;">
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heflerdev&show_icons=true&locale=en&layout=compact" alt="heflerdev" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heflerdev&" alt="heflerdev" /></p>
+  </div>
 </div>
-
-
 - 🔭 I’m currently working on [Audience Lab (Private)](app.audiencelab.io)
 
 - 🌱 I’m currently learning **AWS Lambda, Mongo**
