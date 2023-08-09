@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hefler</h1>
 <h3 align="center">Backend, DevOps and Database Management</h3>
 
-
+<div align="center">
 <table>
   <tr>
     <td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heflerdev&show_icons=true&locale=en&layout=compact" alt="heflerdev" /></p></td>
     <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heflerdev&" alt="heflerdev" /></p></td>
   </tr>
 </table>
+<div align="center">
 
 - 🔭 I’m currently working on [Audience Lab (Private)](app.audiencelab.io)
 
