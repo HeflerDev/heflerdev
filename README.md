@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Audience Lab (Private)](app.audiencelab.io)
 
-- 🌱 I’m currently learning **AWS Lambda, Mongo**
+- 🌱 I’m currently learning **AWS Lambda**
 
 - 👨‍💻 All of my projects are available at [github.com/heflerdev](github.com/heflerdev)
 
