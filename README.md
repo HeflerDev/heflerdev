@@ -101,20 +101,39 @@ I enjoy **turning complex challenges into elegant solutions**, optimizing system
 
 <div align="center">
 
-<!-- Cool dynamic badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=heflerdev&label=Profile%20Views&color=orange&style=for-the-badge)
-![GitHub Streak](https://streak-stats.demolab.com?user=heflerdev&theme=gruvbox_light&hide_border=true&date_format=j%20M%5B%20Y%5D)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=heflerdev&theme=gruvbox_light&no-frame=true&no-bg=true&margin-w=10)
+<!-- Cool dynamic badges (center column) -->
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=heflerdev&label=Profile%20Views&color=orange&style=for-the-badge" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=heflerdev&theme=gruvbox_light&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=heflerdev&theme=gruvbox_light&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
-<br/>
-
-<!-- Two summary cards side by side -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heflerdev&theme=gruvbox_light" height="180em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heflerdev&theme=gruvbox_light" height="180em" />
+<!-- Three evenly-distributed cards in one row -->
+<table align="center" style="width:100%; max-width:1000px;">
+  <tr>
+    <td align="center" style="width:33%; padding:8px;">
+      <!-- Top Languages (compact) -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heflerdev&layout=compact&theme=gruvbox_light&hide_border=true" alt="Top Languages" width="320" />
+    </td>
+    <td align="center" style="width:33%; padding:8px;">
+      <!-- Center column: concise tech badges / snapshot -->
+      <div>
+        <img alt="Node.js" src="https://img.shields.io/badge/Backend-Node.js-lightgrey?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+        <img alt="TS" src="https://img.shields.io/badge/Language-TypeScript-lightgrey?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
+        <img alt="Docker" src="https://img.shields.io/badge/Infra-Docker-lightgrey?style=for-the-badge&logo=docker&logoColor=white" /><br/>
+        <img alt="K8s" src="https://img.shields.io/badge/Orchestration-Kubernetes-lightgrey?style=for-the-badge&logo=kubernetes&logoColor=white" /><br/>
+        <img alt="DB" src="https://img.shields.io/badge/Databases-Postgres%20%7C%20MongoDB%20%7C%20Redis-lightgrey?style=for-the-badge" />
+      </div>
+    </td>
+    <td align="center" style="width:33%; padding:8px;">
+      <!-- Profile details (summary stats) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=heflerdev&show_icons=true&theme=gruvbox_light&hide_border=true" alt="Profile Details" width="320" />
+    </td>
+  </tr>
+</table>
 
 </div>
 ---
-
 ## ☕ Fun Facts
 
 - 🐧 Favorite terminal: **Alacritty on Linux**.  
