@@ -16,7 +16,7 @@
 ## 🧠 About Me
 
 I’m a **Software Engineer** with 4+ years of experience designing and building scalable, high-performance backend systems and distributed microservices.  
-I specialize in **Node.js, TypeScript, and cloud architecture (AWS)** — with a strong focus on reliability, testing, and performance.
+I specialize in **Node.js, TypeScript, and cloud architecture (AWS)**, with a strong focus on reliability, testing, and performance.
 
 I enjoy **turning complex challenges into elegant solutions**, optimizing systems, and mentoring developers to build maintainable, production-ready software.
 
