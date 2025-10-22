@@ -101,12 +101,12 @@ I enjoy **turning complex challenges into elegant solutions**, optimizing system
 
 <div align="center">
 
-![Tech Radar](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heflerdev&theme=tokyonight)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heflerdev&theme=tokyonight)
+![Tech Radar](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heflerdev&theme=gruvbox)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heflerdev&theme=gruvbox)
 
 </div>
 
-> 💡 *These visuals focus more on your technology usage and repositories overview instead of contribution counts — better suited for engineers working mostly in private codebases.*
+> 💡 *These Graphs doens't contemplate private repositories contributions*
 
 ---
 
