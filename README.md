@@ -100,16 +100,13 @@ I enjoy **turning complex challenges into elegant solutions**, optimizing system
 ## 🧩 Developer Snapshot
 
 <div align="center">
-<table align="center" style="width:100%; max-width:1000px;">
+<table align="center" style="width:100%; max-width:1000px; border:none;">
   <tr>
-    <td align="center" style="width:33%; padding:8px;">
+    <td align="center" style="width:50%; padding:8px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heflerdev&layout=compact&theme=gruvbox_light&hide_border=true" alt="Top Languages" width="320" />
     </td>
-    <td align="center" style="width:33%; padding:8px;">
+    <td align="center" style="width:50%; padding:8px;">
       <img src="https://streak-stats.demolab.com?user=heflerdev&theme=gruvbox_light&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="380" />
-    </td>
-    <td align="center" style="width:33%; padding:8px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heflerdev&theme=gruvbox_light" alt="Profile Details" width="420" />
     </td>
   </tr>
   <tr>
