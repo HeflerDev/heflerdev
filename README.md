@@ -103,7 +103,11 @@ I enjoy **turning complex challenges into elegant solutions**, optimizing system
 <table align="center" style="width:100%; max-width:1000px; border:none;">
   <tr>
     <td align="center" style="width:50%; padding:8px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heflerdev&layout=compact&theme=gruvbox_light&hide_border=true" alt="Top Languages" width="320" />
+      <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=heflerdev&layout=compact&theme=gruvbox_light&hide_border=true&hide=ruby,html" 
+  alt="Top Languages" 
+  width="320" 
+/>
     </td>
     <td align="center" style="width:50%; padding:8px;">
       <img src="https://streak-stats.demolab.com?user=heflerdev&theme=gruvbox_light&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="380" />
