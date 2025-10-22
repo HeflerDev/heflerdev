@@ -101,13 +101,18 @@ I enjoy **turning complex challenges into elegant solutions**, optimizing system
 
 <div align="center">
 
-![Tech Radar](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heflerdev&theme=gruvbox)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heflerdev&theme=gruvbox)
+<!-- Cool dynamic badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=heflerdev&label=Profile%20Views&color=orange&style=for-the-badge)
+![GitHub Streak](https://streak-stats.demolab.com?user=heflerdev&theme=gruvbox_light&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=heflerdev&theme=gruvbox_light&no-frame=true&no-bg=true&margin-w=10)
+
+<br/>
+
+<!-- Two summary cards side by side -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heflerdev&theme=gruvbox_light" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heflerdev&theme=gruvbox_light" height="180em" />
 
 </div>
-
-> 💡 *These Graphs doens't contemplate private repositories contributions*
-
 ---
 
 ## ☕ Fun Facts
