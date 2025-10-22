@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Henrique Hefler</h1>
 
 <h3 align="center">
@@ -27,20 +26,25 @@ I enjoy **turning complex challenges into elegant solutions**, optimizing system
 
 <div align="center">
 
-<!-- Languages & Frameworks -->
+<!-- Languages -->
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<!-- Backend & Infra -->
+<!-- Backend -->
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!-- Frontend -->
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 </div>
@@ -93,25 +97,27 @@ I enjoy **turning complex challenges into elegant solutions**, optimizing system
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Developer Snapshot
 
 <div align="center">
 
-![Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heflerdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heflerdev&layout=compact&theme=tokyonight&hide_border=true)
+![Tech Radar](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heflerdev&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heflerdev&theme=tokyonight)
 
 </div>
 
+> 💡 *These visuals focus more on your technology usage and repositories overview instead of contribution counts — better suited for engineers working mostly in private codebases.*
+
 ---
 
-## 🧩 Fun Facts
+## ☕ Fun Facts
 
-- ☕ Runs on coffee and command lines.  
 - 🐧 Favorite terminal: **Alacritty on Linux**.  
 - 💡 Loves solving performance bottlenecks and system design puzzles.  
+- 🌙 Enjoys quiet late-night coding sessions with lo-fi beats and strong coffee.  
 
 ---
 
 <p align="center">
-  <i>“Build it clean. Build it strong. Build it to last.”</i>  
+  <i>“Build it clean. Build it strong. Build it to last.”</i>
 </p>
